@@ -3,15 +3,15 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            IREC 2018 Log
+title:            SEDS-UCF IREC 2019
 tagline:          'A SEDS-UCF project.'
-description:      'A log for the SEDS-UCF 2018 IREC project.'
-url:              https://seds-ucf.github.io
-baseurl:          /irec2018-project-log
+description:      'A project log for the SEDS-UCF's 2019 IREC entry.'
+url:              http://irec19.sedsucf.org/
+baseurl:          /
 
 author:
   name:           'SEDS-UCF'
-  url:            http://www.mae.ucf.edu/mmae/seds/
+  url:            http://sedsucf.org/
 
 paginate:         5
 # paginate_path:    '/page:num'
