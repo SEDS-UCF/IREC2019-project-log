@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'SEDS-UCF IREC 2019'
-tagline:          'A SEDS-UCF project.'
-description:      'A project log for the SEDS-UCF's 2019 IREC entry.'
+title:            "SEDS-UCF IREC 2019"
+tagline:          "A SEDS-UCF project."
+description:      "A project log for the SEDS-UCF's 2019 IREC entry."
 url:              http://irec19.sedsucf.org/
 baseurl:          /
 
