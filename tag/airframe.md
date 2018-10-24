@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tag
+tag: airframe
 title: Airframe
 ---
 

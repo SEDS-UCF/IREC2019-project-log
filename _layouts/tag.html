@@ -7,8 +7,8 @@ layout: page
 {% endunless %}
 
 <ul class="posts-list">
-  {% assign category = page.category | default: page.title %}
-  {% for post in site.categories[category] %}
+  {% assign tag = page.tag | default: page.title %}
+  {% for post in site.tags[tag] %}
     <li>
       <h3>
         <a href="{{ site.baseurl }}{{ post.url }}">
