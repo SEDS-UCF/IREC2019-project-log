@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tag
+tag: general
 title: General
 ---
 

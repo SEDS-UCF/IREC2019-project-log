@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tag
+tag: payload
 title: Payload
 ---
 
