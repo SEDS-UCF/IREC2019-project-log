@@ -2,7 +2,7 @@
 layout: post
 title: "Initial commit."
 categories:
-  - general
+  - General
 tags:
   - introduction
 ---
